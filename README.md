@@ -1,0 +1,1 @@
+# csharp-global-usings-template
