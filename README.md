@@ -1,5 +1,8 @@
 # C# Global Using templates
 
+## TLDR
+[GlobalUsings.cs](https://github.com/dimitrietataru/csharp-global-using/blob/ace/sample/GlobalUsing.Sample.Api/GlobalUsings.cs)
+
 ## About Global Using directives
 * [Microsoft docs - What's new](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-10#global-using-directives)
 * [Microsoft docs - Specifications](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-10.0/globalusingdirective)
