@@ -1,1 +1,1 @@
-# csharp-global-usings-template
+# C# Global Using templates
